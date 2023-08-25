@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatiasTA
-- 👀 I’m interested in Game Developing
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me matiastourn96@gmail.com
 
 <!---
